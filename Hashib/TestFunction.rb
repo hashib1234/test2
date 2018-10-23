@@ -1,0 +1,1 @@
+puts test(?r,"input.txt")
